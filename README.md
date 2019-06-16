@@ -1,1 +1,1 @@
-# instagram-clone-backend
+# instagram-clone-api
